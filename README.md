@@ -2,7 +2,7 @@
 
 ## About me 🤓
 💻 I´m a Computer Science student at Tecnológico de Monterrey.\
-📚 I´m currently a Oracle One Student.\
+📚 I´m currently a Oracle One Student.
 
 🌐 Socials:
 
