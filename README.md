@@ -4,8 +4,6 @@
 💻 I´m a Computer Science student at Tecnológico de Monterrey.\
 📚 I´m currently an Oracle One Student.
 
-🌐 Socials:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alcantara-c/)
 
 ## Skills 🛠️
