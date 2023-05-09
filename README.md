@@ -23,6 +23,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-black?style=flat-square&logo=ruby-on-rails)
 
+### Technologies
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+
 ### GitHub Stats 📈
 ![Luis Alcantara's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisalcab&show_icons=true&theme=radical)
 
