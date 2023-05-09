@@ -18,10 +18,10 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
 
 ### Frameworks
-- React
-- Node.js
-- React Native
-- Ruby on Rails
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-black?style=flat-square&logo=ruby-on-rails)
 
 ### GitHub Stats 📈
 ![Luis Alcantara's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisalcab&show_icons=true&theme=radical)
