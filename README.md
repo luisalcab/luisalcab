@@ -27,6 +27,15 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=android-studio)
+
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+
+### Others
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
 ### GitHub Stats 📈
 ![Luis Alcantara's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisalcab&show_icons=true&theme=radical)
