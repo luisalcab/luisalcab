@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## About me 🤓
 💻 I´m a Computer Science student at Tecnológico de Monterrey.\
