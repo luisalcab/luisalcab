@@ -10,13 +10,12 @@
 
 ## Skills 🛠️
 ### Programming languages
-- JavasScript
-- Unity C#
-- C++
-- TypeScript
-- Python
-- Ruby
-- Ruby
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
 
 ### Frameworks
 - React
