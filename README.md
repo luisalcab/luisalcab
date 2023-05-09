@@ -5,7 +5,7 @@
 📚 I´m currently a Oracle One Student.\
 
 🌐 Socials:
-- [LinkedIn](https://www.linkedin.com/in/luis-alcantara-c/)
+- [LinkedIn(luisalcab)](https://www.linkedin.com/in/luisalcab/)
 
 ## Skills 🛠️
 ### Programming languages
