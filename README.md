@@ -24,6 +24,9 @@
 - React Native
 - Ruby on Rails
 
+### GitHub Stats 📈
+![Luis Alcantara's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisalcab&show_icons=true&theme=radical)
+
 
 <!--
 **luisalcab/luisalcab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
