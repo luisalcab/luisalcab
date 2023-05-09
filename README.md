@@ -34,6 +34,14 @@
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisalcab&layout=compact&theme=radical)
 
+### Wakatime Stats 📊
+<!--START_SECTION:waka-->
+```text
+Week: 14 October, 2021 - 20 October, 2021
+
+JavaScript   1 hr 49 mins    ████████████████████████▓   98.02 % 
+```
+
 
 <!--
 **luisalcab/luisalcab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
