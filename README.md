@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## About me 🤓
+## About me 🪄🃏
 💻 I´m a Computer Science student at Tecnológico de Monterrey.\
 📚 I´m currently an Oracle One Student.
 
