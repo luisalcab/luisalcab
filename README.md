@@ -28,7 +28,7 @@
 ![Luis Alcantara's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisalcab&show_icons=true&theme=radical)
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisalcab&layout=compact&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisalcab&layout=compact&theme=radical)
 
 
 <!--
