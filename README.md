@@ -5,7 +5,7 @@
 📚 I´m currently a Oracle One Student.\
 
 🌐 Socials:
-- [LinkedIn(luisalcab)](https://www.linkedin.com/in/luisalcab/)
+- [(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisalcab/)
 
 ## Skills 🛠️
 ### Programming languages
