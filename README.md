@@ -10,9 +10,9 @@
 
 ## Skills 🛠️
 ### Programming languages
-- JavasScript
-- Unity C#
-- C++
+- [!JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+- [!C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
+- [!C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 - TypeScript
 - Python
 - Ruby
